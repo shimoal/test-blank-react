@@ -5,6 +5,6 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
 
-  base: 'https://shimoal.github.io/test-blank-react/', 
+  base: 'https://shimoal.github.io/test-blank-react/dist/', 
 
 })
